@@ -19,6 +19,8 @@ from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 # google genmini
 from langchain_google_genai import ChatGoogleGenerativeAI
 
+# ollama 
+from langchain_community.llms import Ollama
 
 # vector store
 from langchain_community.vectorstores import Chroma
@@ -26,7 +28,27 @@ import chromadb
 
 
 
-class ragchain: 
+class ragchain:
+
+    def from_ollama(self, model_name, embedding_function=None, collection_name='langchain', k=2): 
+        
+        self.embedding_function = embedding_function if embedding_function else OpenAIEmbeddings() 
+        self.collection_name = collection_name 
+        self.retriever = self.set_chromadb( k=k, collection_name=collection_name)
+
+        self.llm = Ollama(model=model_name)
+        self.prompt = hub.pull("rlm/rag-prompt")
+
+        # self.rag_chain = (
+        #     {"context": self.retriever | self.format_docs, "question": RunnablePassthrough()}
+        #     | self.prompt
+        #     | self.llm
+        #     | StrOutputParser()
+        # )
+        self.rag_chain = self.set_chain()
+
+        return self.rag_chain 
+    
 
     def from_google(self, embedding_function=None, collection_name='langchain', k=2):
 
@@ -38,13 +60,7 @@ class ragchain:
         self.llm = ChatGoogleGenerativeAI(model="gemini-pro", google_api_key=GOOGLE_API_KEY)
         self.prompt = hub.pull("rlm/rag-prompt")
 
-        self.rag_chain = (
-            {"context": self.retriever | self.format_docs, "question": RunnablePassthrough()}
-            | self.prompt
-            | self.llm
-            | StrOutputParser()
-        )
-
+        self.rag_chain = self.set_chain()
         return self.rag_chain
 
 
@@ -56,18 +72,20 @@ class ragchain:
         self.llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0)
         self.prompt = hub.pull("rlm/rag-prompt")
 
-        self.rag_chain = (
-            {"context": self.retriever | self.format_docs, "question": RunnablePassthrough()}
-            | self.prompt
-            | self.llm
-            | StrOutputParser()
-        )
+        self.rag_chain = self.set_chain()
 
         return self.rag_chain
 
     def format_docs(self, docs):
         return "\n\n".join(doc.page_content for doc in docs)
 
+    def set_chain(self): 
+        return (
+            {"context": self.retriever | self.format_docs, "question": RunnablePassthrough()}
+            | self.prompt
+            | self.llm
+            | StrOutputParser()
+        ) 
 
     def from_model_id(self, model_name, model_type, embedding_function, host='localhost', port='8000', k=4, chain_type='refine', path=None, **kwargs):
         self.model_name = model_name 
@@ -125,11 +143,6 @@ class ragchain:
 
         return self.llm_pipe, self.llm
     
-    def set_openai(self):
-        self.llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0)
-        self.prompt = hub.pull("rlm/rag-prompt")
-
-        return 
 
 
     def generate(self, question):
