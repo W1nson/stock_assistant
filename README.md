@@ -4,8 +4,9 @@
 ## To-Do
 - [x] setup LangChain to connect with OllamaAPI
 - [ ] study which API provides the best output (**Cleaner Data the Better Performance/Efficient**)
-- [ ] (Alec) Need to think about how to pick the useful data from the API? Do we need to include title? descriptions? or just content? 
-- [ ] Do we need vectorDB(RAG) at all for the Question-Answering(QA)? How would that slow down our process? or How can we speed up the process using other approach? 
+- [ ] (Alec) Find Better APIs! Need to think about how to pick the useful data from the API? Do we need to include title? descriptions? or just content? How much overlap or chunk should we use? 
+- [ ] Do we need vectorDB(RAG) at all for the Question-Answering(QA)? How would that slow down our process? or How can we speed up the process using other approach?
+- [ ] Research in doing function calling in localllm 
 
 ## Getting Started 
 

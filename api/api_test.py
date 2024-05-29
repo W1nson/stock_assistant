@@ -42,8 +42,7 @@ class News(API_Base):
 				url += f"{kv[0]}={kv[1]}"
 			else: 
 				url += f"&{kv[0]}={kv[1]}"
-
-		
+				
 		print(url)
 		res = requests.get(url)
 		res = res.json()

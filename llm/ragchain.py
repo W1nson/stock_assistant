@@ -39,12 +39,6 @@ class ragchain:
         self.llm = Ollama(model=model_name)
         self.prompt = hub.pull("rlm/rag-prompt")
 
-        # self.rag_chain = (
-        #     {"context": self.retriever | self.format_docs, "question": RunnablePassthrough()}
-        #     | self.prompt
-        #     | self.llm
-        #     | StrOutputParser()
-        # )
         self.rag_chain = self.set_chain()
 
         return self.rag_chain 
