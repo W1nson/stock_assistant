@@ -26,8 +26,6 @@ from langchain_community.llms import Ollama
 from langchain_community.vectorstores import Chroma
 import chromadb 
 
-
-
 class ragchain:
 
     def from_ollama(self, model_name, embedding_function=None, collection_name='langchain', k=2): 
