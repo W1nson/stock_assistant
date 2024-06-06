@@ -13,7 +13,7 @@ class API_Base:
 
 	def __repr__(self) -> str:
 		return f'API({self.name}, {self.domain})'
-	
+
 
 class News(API_Base): 
 	def __init__(self, key, domain=None):
@@ -60,15 +60,34 @@ class News(API_Base):
 	# 	with open(name, 'w') as file: 
 	# 		json.dump(self.out, file)
 		
-def main(): 
-	api = News(os.getenv('NEWS_API_KEY'), 'https://newsapi.org/v2/')
+class Perigon(API_Base): 
+	def __init__(self, key, domain=None):
+		super().__init__('Perigon', key, domain)
+		self.args = {
+			'apiKey': key
+		}
 
-	params = { 
-		"from": "2024-04-28",
-		"sortBy": "popularity",
+	def all(self, q, **kwargs): 
+		self.args['q'] = q
+		self.args.update(kwargs)
+		url = os.path.join(self.domain, 'all?')
+		for i, kv in enumerate(self.args.items()): 
+			if i == 0: 
+				url += f"{kv[0]}={kv[1]}"
+			else: 
+				url += f"&{kv[0]}={kv[1]}"
+				
+		print(url)
+		res = requests.get(url)
+		res = res.json()
+		self.out = res
+		if res['status'] != 200: 
+			print("Error:", res['status'])
+			print(res['message'])
+			return res
 
-	}
-	res = api.get_everything('TSLA', **params)
+		print(f"Successfully Retrieve {res['numResults']} articles")
+		return res
 
 class FMP(API_Base): 
 	def __init__(self, key, domain):
@@ -86,6 +105,16 @@ class FMP(API_Base):
 		print(res.url)
 
 		return res.json()
+
+def main(): 
+	api = News(os.getenv('NEWS_API_KEY'), 'https://newsapi.org/v2/')
+
+	params = { 
+		"from": "2024-04-28",
+		"sortBy": "popularity",
+
+	}
+	res = api.get_everything('TSLA', **params)
 
 if __name__ == '__main__': 
 	main()

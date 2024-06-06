@@ -1,0 +1,1598 @@
+{
+    "status": 200,
+    "numResults": 1024,
+    "articles": [
+        {
+            "url": "https://www.bloomberg.com/news/features/2024-05-21/how-to-buy-spacex-stock-here-s-a-pre-ipo-investing-guide?srnd=homepage-europe",
+            "authorsByline": "Kiel Porter",
+            "articleId": "d52ab99a185a4884b511380812a121c6",
+            "clusterId": "2955b6f57e19459aae80d984f5e998b9",
+            "source": {
+                "domain": "bloomberg.com",
+                "paywall": true,
+                "location": null
+            },
+            "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8aKJ4nvtSjc/v0/1200x675.jpg",
+            "country": "us",
+            "language": "en",
+            "pubDate": "2024-05-21T10:00:20.453000+00:00",
+            "addDate": "2024-05-21T10:24:12.212936+00:00",
+            "refreshDate": "2024-05-21T10:24:12.212937+00:00",
+            "score": 58.045235,
+            "title": "How to Buy SpaceX",
+            "description": "Elon Musk\u2019s startup is privately held. How do you invest? It\u2019s difficult\u2014but not impossible.",
+            "content": "The constellation Monoceros, faintly visible against the Milky Way, has for centuries occupied the heavens as \u201cthe unicorn.\u201d The other space unicorn? Elon Musk \u2019s Space Exploration Technologies Corp. ... [1005 symbols]",
+            "medium": "Article",
+            "links": [
+                "https://www.youtube.com/watch?v=jUVnq9PfG9M",
+                "https://www.bloomberg.com/quote/711339Z:US",
+                "https://www.spacex.com/"
+            ],
+            "labels": [
+                {
+                    "name": "Non-news"
+                }
+            ],
+            "matchedAuthors": [
+                {
+                    "id": "d2460d77c6c64be4ace1165c2d27f9d6",
+                    "name": "Kiel Porter"
+                }
+            ],
+            "claim": "",
+            "verdict": "",
+            "keywords": [
+                {
+                    "name": "many unicorns",
+                    "weight": 0.096063256
+                },
+                {
+                    "name": "Space Exploration Technologies Corp.",
+                    "weight": 0.09330041
+                },
+                {
+                    "name": "reusable rockets",
+                    "weight": 0.07901887
+                },
+                {
+                    "name": "SpaceX",
+                    "weight": 0.069738984
+                },
+                {
+                    "name": "Elon Musk \u2019s Space Exploration Technologies Corp.",
+                    "weight": 0.067222066
+                },
+                {
+                    "name": "Monoceros",
+                    "weight": 0.06470026
+                },
+                {
+                    "name": "astronauts",
+                    "weight": 0.058859587
+                },
+                {
+                    "name": "Starlink",
+                    "weight": 0.05865008
+                },
+                {
+                    "name": "demand",
+                    "weight": 0.05841091
+                },
+                {
+                    "name": "NASA",
+                    "weight": 0.057602853
+                }
+            ],
+            "topics": [
+                {
+                    "name": "Space"
+                },
+                {
+                    "name": "Markets"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Finance"
+                }
+            ],
+            "entities": [
+                {
+                    "data": "Monoceros",
+                    "type": "LOC",
+                    "mentions": 1
+                },
+                {
+                    "data": "the Milky Way",
+                    "type": "LOC",
+                    "mentions": 1
+                },
+                {
+                    "data": "Elon Musk \u2019s",
+                    "type": "PERSON",
+                    "mentions": 1
+                },
+                {
+                    "data": "Space Exploration Technologies Corp.",
+                    "type": "ORG",
+                    "mentions": 1
+                },
+                {
+                    "data": "Starlink",
+                    "type": "ORG",
+                    "mentions": 1
+                },
+                {
+                    "data": "NASA",
+                    "type": "ORG",
+                    "mentions": 1
+                },
+                {
+                    "data": "SpaceX",
+                    "type": "ORG",
+                    "mentions": 2
+                },
+                {
+                    "data": "US",
+                    "type": "GPE",
+                    "mentions": 1
+                },
+                {
+                    "data": "Hawthorne",
+                    "type": "GPE",
+                    "mentions": 1
+                },
+                {
+                    "data": "California",
+                    "type": "GPE",
+                    "mentions": 1
+                },
+                {
+                    "data": "the International Space Station",
+                    "type": "FAC",
+                    "mentions": 1
+                }
+            ],
+            "companies": [
+                {
+                    "id": "6341175da4eb4343a45655b3978a9904",
+                    "name": "SpaceX",
+                    "domains": [
+                        "spacex.com"
+                    ],
+                    "symbols": []
+                }
+            ],
+            "sentiment": {
+                "positive": 0.47827828,
+                "negative": 0.07154241,
+                "neutral": 0.45017928
+            },
+            "summary": "Elon Musk's Space Exploration Technologies Corp. (SpaceX), the most highly valued startup in the US, has grown into a $180 billion colossus that launches satellites, operates the Starlink internet service, and is a critical NASA subcontractor. However, SpaceX remains privately held and its shares do not currently trade on a stock exchange. As a result, obtaining a piece of SpaceX is a process that can increase its valuation. Investing in SpaceX is not simple, but it can create demand and raise the company's valuation.",
+            "translation": "",
+            "translatedTitle": "",
+            "translatedDescription": "",
+            "translatedSummary": "",
+            "locations": [],
+            "reprint": false,
+            "reprintGroupId": "3e08abe37cbb4ca08d087b970270125f",
+            "places": [],
+            "people": [
+                {
+                    "wikidataId": "Q317521",
+                    "name": "Elon Musk"
+                }
+            ]
+        },
+        {
+            "url": "https://www.bloomberg.com/news/videos/2024-05-24/how-to-buy-spacex",
+            "authorsByline": "bn",
+            "articleId": "4d4bff5ffc154f82a78f6a5ae1009e10",
+            "clusterId": "5877137a013b4784940d8ea2017508c2",
+            "source": {
+                "domain": "bloomberg.com",
+                "paywall": true,
+                "location": null
+            },
+            "imageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8p9xrBxO1SA/v3/-1x-1.jpg",
+            "country": "us",
+            "language": "en",
+            "pubDate": "2024-05-24T17:55:33.715000+00:00",
+            "addDate": "2024-05-24T18:26:47.447184+00:00",
+            "refreshDate": "2024-05-24T18:26:47.447187+00:00",
+            "score": 58.045235,
+            "title": "How To Buy SpaceX",
+            "description": "SpaceX is a privately held startup, so shares don\u2019t trade on a stock exchange. But there are ways to invest. \n\nKiel Porter shares some tips for the galaxy\u2019s most determined investors. (Source: Bloomberg)",
+            "content": "Carol Massar and Tim Stenovec bring together the latest news from the world of business and finance and the interesting stories of global technology, politics, economics and more by harnessing the pow... [251 symbols]",
+            "medium": "Video",
+            "links": [],
+            "labels": [
+                {
+                    "name": "Non-news"
+                }
+            ],
+            "matchedAuthors": [
+                {
+                    "id": null,
+                    "name": "Bn"
+                }
+            ],
+            "claim": "",
+            "verdict": "",
+            "keywords": [
+                {
+                    "name": "Bloomberg Businessweek reporters",
+                    "weight": 0.14818557
+                },
+                {
+                    "name": "Tim Stenovec",
+                    "weight": 0.13922502
+                },
+                {
+                    "name": "Carol Massar",
+                    "weight": 0.13697518
+                },
+                {
+                    "name": "Bloomberg Businessweek",
+                    "weight": 0.13697518
+                },
+                {
+                    "name": "global technology",
+                    "weight": 0.13525619
+                },
+                {
+                    "name": "economics",
+                    "weight": 0.1023667
+                },
+                {
+                    "name": "politics",
+                    "weight": 0.1018936
+                },
+                {
+                    "name": "business",
+                    "weight": 0.10132884
+                },
+                {
+                    "name": "finance",
+                    "weight": 0.101199195
+                },
+                {
+                    "name": "SpaceX.",
+                    "weight": 0.09039436
+                }
+            ],
+            "topics": [
+                {
+                    "name": "Space"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Politics"
+                }
+            ],
+            "entities": [
+                {
+                    "data": "Carol Massar",
+                    "type": "PERSON",
+                    "mentions": 1
+                },
+                {
+                    "data": "Tim Stenovec",
+                    "type": "PERSON",
+                    "mentions": 1
+                },
+                {
+                    "data": "Bloomberg Businessweek",
+                    "type": "ORG",
+                    "mentions": 1
+                }
+            ],
+            "companies": [],
+            "sentiment": {
+                "positive": 0.49435535,
+                "negative": 0.035307467,
+                "neutral": 0.4703372
+            },
+            "summary": "",
+            "translation": "",
+            "translatedTitle": "",
+            "translatedDescription": "",
+            "translatedSummary": "",
+            "locations": [],
+            "reprint": false,
+            "reprintGroupId": "f781e53715714f24b77a3be809e62b9d",
+            "places": [],
+            "people": []
+        },
+        {
+            "url": "https://www.yahoo.com/tech/spacex-edges-closer-moon-100012160.html",
+            "authorsByline": "Natalie Dowzicky",
+            "articleId": "a7ca3c7d599340ef9e134fcda5f87d13",
+            "clusterId": "d905a1a370d541ffa50c580e68e97938",
+            "source": {
+                "domain": "yahoo.com",
+                "paywall": false,
+                "location": null
+            },
+            "imageUrl": "https://media.zenfs.com/en/reason_com_245/e6ecc1cfc7cad97b125093c879821f22",
+            "country": "us",
+            "language": "en",
+            "pubDate": "2024-05-09T10:00:12+00:00",
+            "addDate": "2024-05-09T10:54:18.041020+00:00",
+            "refreshDate": "2024-05-09T10:54:18.041022+00:00",
+            "score": 53.143322,
+            "title": "SpaceX Edges Closer to the Moon",
+            "description": "Plus, an AI-generated version of the same article",
+            "content": "In the June 2024 issue, we explore the ways that artificial intelligence is shaping our economy and culture. The stories and art are about AI\u2014and occasionally by AI. (Throughout the issue, we have ren... [7093 symbols]",
+            "medium": "Article",
+            "links": [
+                "https://search.yahoo.com/search?p=Bill%20Nelson",
+                "https://reason.com",
+                "https://reason.com/2024/06/01/spacex-edges-closer-to-the-moon#explain",
+                "https://reason.com/2024/05/09/spacex-edges-closer-to-the-moon/",
+                "https://reason.com/issue/june-2024/",
+                "https://www.washingtonpost.com/technology/2023/10/17/spacex-congress-licenses-faa-starship/?mc_cid=6b9a798580&mc_eid=ce95fb21d8"
+            ],
+            "labels": [],
+            "matchedAuthors": [
+                {
+                    "id": null,
+                    "name": "Natalie Dowzicky"
+                }
+            ],
+            "claim": "",
+            "verdict": "",
+            "keywords": [
+                {
+                    "name": "Starship tests",
+                    "weight": 0.10589377
+                },
+                {
+                    "name": "Starship test launches",
+                    "weight": 0.10568443
+                },
+                {
+                    "name": "launch tests",
+                    "weight": 0.09566186
+                },
+                {
+                    "name": "tests",
+                    "weight": 0.089543305
+                },
+                {
+                    "name": "FAA mishap investigations",
+                    "weight": 0.080697104
+                },
+                {
+                    "name": "FAA",
+                    "weight": 0.0778404
+                },
+                {
+                    "name": "Sluggish FAA",
+                    "weight": 0.07526399
+                },
+                {
+                    "name": "SpaceX",
+                    "weight": 0.06997052
+                },
+                {
+                    "name": "NASA astronauts",
+                    "weight": 0.06885966
+                },
+                {
+                    "name": "Artemis",
+                    "weight": 0.06813366
+                }
+            ],
+            "topics": [
+                {
+                    "name": "Space"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Tech"
+                }
+            ],
+            "entities": [
+                {
+                    "data": "SpaceX",
+                    "type": "ORG",
+                    "mentions": 19
+                },
+                {
+                    "data": "NASA",
+                    "type": "ORG",
+                    "mentions": 12
+                },
+                {
+                    "data": "Lockheed Martin's",
+                    "type": "ORG",
+                    "mentions": 1
+                },
+                {
+                    "data": "Federal Aviation Administration",
+                    "type": "ORG",
+                    "mentions": 2
+                },
+                {
+                    "data": "FAA",
+                    "type": "ORG",
+                    "mentions": 21
+                },
+                {
+                    "data": "Starship",
+                    "type": "ORG",
+                    "mentions": 1
+                },
+                {
+                    "data": "Musk",
+                    "type": "ORG",
+                    "mentions": 1
+                },
+                {
+                    "data": "Artemis",
+                    "type": "ORG",
+                    "mentions": 1
+                },
+                {
+                    "data": "DALL-E",
+                    "type": "ORG",
+                    "mentions": 1
+                },
+                {
+                    "data": "Reason",
+                    "type": "ORG",
+                    "mentions": 1
+                },
+                {
+                    "data": "the Washington Post[5",
+                    "type": "ORG",
+                    "mentions": 2
+                },
+                {
+                    "data": "Ars Technica[6",
+                    "type": "ORG",
+                    "mentions": 2
+                },
+                {
+                    "data": "Anthropic",
+                    "type": "ORG",
+                    "mentions": 1
+                },
+                {
+                    "data": "ARTEMIS II",
+                    "type": "PRODUCT",
+                    "mentions": 12
+                },
+                {
+                    "data": "Orion",
+                    "type": "PRODUCT",
+                    "mentions": 2
+                },
+                {
+                    "data": "Starship",
+                    "type": "PRODUCT",
+                    "mentions": 11
+                },
+                {
+                    "data": "American",
+                    "type": "NORP",
+                    "mentions": 3
+                },
+                {
+                    "data": "Mars",
+                    "type": "LOC",
+                    "mentions": 2
+                },
+                {
+                    "data": "the Gulf of Mexico",
+                    "type": "LOC",
+                    "mentions": 1
+                },
+                {
+                    "data": "Elon Musk",
+                    "type": "PERSON",
+                    "mentions": 1
+                },
+                {
+                    "data": "Bill Nelson",
+                    "type": "PERSON",
+                    "mentions": 2
+                },
+                {
+                    "data": "Jessica Jensen",
+                    "type": "PERSON",
+                    "mentions": 3
+                },
+                {
+                    "data": "Claude 3 Sonnet",
+                    "type": "PERSON",
+                    "mentions": 4
+                },
+                {
+                    "data": "Tim Hughes",
+                    "type": "PERSON",
+                    "mentions": 3
+                },
+                {
+                    "data": "Natalie Dowzicky's",
+                    "type": "PERSON",
+                    "mentions": 1
+                },
+                {
+                    "data": "SpaceX: FAA Is Slowing Progress to the Moon",
+                    "type": "WORK_OF_ART",
+                    "mentions": 1
+                }
+            ],
+            "companies": [
+                {
+                    "id": "6341175da4eb4343a45655b3978a9904",
+                    "name": "SpaceX",
+                    "domains": [
+                        "spacex.com"
+                    ],
+                    "symbols": []
+                }
+            ],
+            "sentiment": {
+                "positive": 0.06352904,
+                "negative": 0.59051156,
+                "neutral": 0.34595937
+            },
+            "summary": "In the June 2024 issue, we explore the ways that artificial intelligence is shaping our economy and culture. The article discusses the delays in Artemis II and Artemis III, a crewed lunar landing mission, and the potential cost of these missions. In January, NASA announced that it would be delayed until September 2025, a year later than originally planned. The project continues to balloon in price and is expected to increase further. Other delays include Lockheed Martin's Orion capsule, which burned more than anticipated during a reentry test. The Federal Aviation Administration (FAA) investigations can add weeks or months between Starship tests. So far, SpaceX has been able to test the spacecraft three times, most recently on March 14. The company hopes to run six Starship test launches this year, but the FAA may delay further tests.",
+            "translation": "",
+            "translatedTitle": "",
+            "translatedDescription": "",
+            "translatedSummary": "",
+            "locations": [],
+            "reprint": true,
+            "reprintGroupId": "641b1622f2e542d5b69f64a374633538",
+            "places": [],
+            "people": [
+                {
+                    "wikidataId": "Q358437",
+                    "name": "Bill Nelson"
+                },
+                {
+                    "wikidataId": "Q317521",
+                    "name": "Elon Musk"
+                }
+            ]
+        },
+        {
+            "url": "https://www.cbsnews.com/losangeles/news/spacex-launches-starlink-satellites-from-southern-california/",
+            "authorsByline": "By\n                        \n              Danielle Radin",
+            "articleId": "6e796fc06790498f9374940eaa112f10",
+            "clusterId": "bbfa772f02fb4ef0bb54dfe4013be5db",
+            "source": {
+                "domain": "cbsnews.com",
+                "paywall": false,
+                "location": null
+            },
+            "imageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/05/10/dc439468-896e-41c0-b674-3f2f483ce102/thumbnail/1200x630/58aa39d4905661556617ddfa2bfb81ae/snapshot-1.jpg?v=218688c1357f974b9630d4fa8914721c",
+            "country": "us",
+            "language": "en",
+            "pubDate": "2024-05-09T21:49:00-07:00",
+            "addDate": "2024-05-10T04:56:15.096668+00:00",
+            "refreshDate": "2024-05-10T04:56:15.096669+00:00",
+            "score": 51.005814,
+            "title": "SpaceX launches Starlink satellites from Southern California",
+            "description": "SpaceX successfully launched a rocket from Southern California into orbit Thursday.",
+            "content": "The launch of 20 more Starlink satellites happened around 9:30 p.m. out of Vandenberg Space Force Base north of Los Angeles County.\n\nThe Falcon 9 rocket flew through the sky with a crescent moon in si... [388 symbols]",
+            "medium": "Article",
+            "links": [
+                "https://www.cbsnews.com/news/faa-approvals-maiden-flight-spacex-super-heavy-starship-rocket/",
+                "https://www.cbsnews.com/news/spacex-launch-super-heavy-starship-rocket-third-test-flight/",
+                "https://www.cbsnews.com/losangeles/search/author/danielle-radin/"
+            ],
+            "labels": [],
+            "matchedAuthors": [
+                {
+                    "id": "8a75ab9839a8445fb2e33b2a36b1f798",
+                    "name": "Danielle Radin"
+                }
+            ],
+            "claim": "",
+            "verdict": "",
+            "keywords": [
+                {
+                    "name": "Los Angeles County",
+                    "weight": 0.15547206
+                },
+                {
+                    "name": "space",
+                    "weight": 0.13226055
+                },
+                {
+                    "name": "Vandenberg Space Force Base",
+                    "weight": 0.12830454
+                },
+                {
+                    "name": "sight",
+                    "weight": 0.104873
+                },
+                {
+                    "name": "Southern California",
+                    "weight": 0.10106637
+                },
+                {
+                    "name": "Starlink satellites",
+                    "weight": 0.09418702
+                },
+                {
+                    "name": "the unpiloted upper stage",
+                    "weight": 0.08640553
+                },
+                {
+                    "name": "third",
+                    "weight": 0.08397687
+                },
+                {
+                    "name": "its third test flight",
+                    "weight": 0.076502085
+                },
+                {
+                    "name": "Starlink",
+                    "weight": 0.06611237
+                }
+            ],
+            "topics": [
+                {
+                    "name": "Space"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "General"
+                }
+            ],
+            "entities": [
+                {
+                    "data": "SpaceX",
+                    "type": "ORG",
+                    "mentions": 2
+                },
+                {
+                    "data": "Starlink",
+                    "type": "ORG",
+                    "mentions": 2
+                },
+                {
+                    "data": "Southern California",
+                    "type": "LOC",
+                    "mentions": 1
+                },
+                {
+                    "data": "around 9:30 p.m.",
+                    "type": "TIME",
+                    "mentions": 1
+                },
+                {
+                    "data": "Vandenberg Space Force Base",
+                    "type": "FAC",
+                    "mentions": 1
+                },
+                {
+                    "data": "Los Angeles County",
+                    "type": "GPE",
+                    "mentions": 1
+                },
+                {
+                    "data": "Falcon 9",
+                    "type": "PRODUCT",
+                    "mentions": 1
+                },
+                {
+                    "data": "Super Heavy-Starship",
+                    "type": "PRODUCT",
+                    "mentions": 1
+                }
+            ],
+            "companies": [],
+            "sentiment": {
+                "positive": 0.6921871,
+                "negative": 0.030591298,
+                "neutral": 0.2772216
+            },
+            "summary": "SpaceX has successfully launched 20 more Starlink satellites from Vandenberg Space Force Base north of Los Angeles County. The Falcon 9 rocket carried out with a crescent moon in sight. This follows SpaceX's recent test flight of its Super Heavy-Starship rocket, the most powerful ever built, successfully boosting the unpiloted upper stage into space.",
+            "translation": "",
+            "translatedTitle": "",
+            "translatedDescription": "",
+            "translatedSummary": "",
+            "locations": [
+                {
+                    "country": "us",
+                    "state": "CA",
+                    "city": "Los Angeles"
+                }
+            ],
+            "reprint": true,
+            "reprintGroupId": "ebe3275749a34463aa2c258e3d985e1b",
+            "places": [],
+            "people": []
+        },
+        {
+            "url": "https://www.foxnews.com/video/6352811051112",
+            "authorsByline": "",
+            "articleId": "f26035dbca964ea3b0ec545077c34e02",
+            "clusterId": "6c5be20c81534063ba104552ed52c562",
+            "source": {
+                "domain": "foxnews.com",
+                "paywall": false,
+                "location": null
+            },
+            "imageUrl": "https://a57.foxnews.com/streamcontroller-stage1-ue1-1.s3.amazonaws.com/1024/512/FNC_DEFAULT_720.png?ve=1&tl=1",
+            "country": "us",
+            "language": "en",
+            "pubDate": "2024-05-13T00:13:47+00:00",
+            "addDate": "2024-05-13T00:59:17.608908+00:00",
+            "refreshDate": "2024-05-13T00:59:17.608909+00:00",
+            "score": 51.005814,
+            "title": "SpaceX Falcon 9 launch of Starlink satellites",
+            "description": "The launch is taking place at the Cape Canaveral Space Force Station in Florida.",
+            "content": "Log in to comment on videos and join in on the fun.",
+            "medium": "Video",
+            "links": [],
+            "labels": [],
+            "matchedAuthors": [],
+            "claim": "",
+            "verdict": "",
+            "keywords": [
+                {
+                    "name": "Starlink satellites",
+                    "weight": 0.2624103
+                },
+                {
+                    "name": "Starlink",
+                    "weight": 0.16847457
+                },
+                {
+                    "name": "videos",
+                    "weight": 0.14113265
+                },
+                {
+                    "name": "SpaceX Falcon 9 launch",
+                    "weight": 0.11143113
+                },
+                {
+                    "name": "SpaceX",
+                    "weight": 0.10997339
+                },
+                {
+                    "name": "the fun",
+                    "weight": 0.10232799
+                },
+                {
+                    "name": "Falcon 9",
+                    "weight": 0.0575423
+                }
+            ],
+            "topics": [
+                {
+                    "name": "Space"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Tech"
+                },
+                {
+                    "name": "Science"
+                }
+            ],
+            "entities": [
+                {
+                    "data": "SpaceX",
+                    "type": "ORG",
+                    "mentions": 1
+                },
+                {
+                    "data": "Starlink",
+                    "type": "ORG",
+                    "mentions": 1
+                },
+                {
+                    "data": "Falcon 9",
+                    "type": "PRODUCT",
+                    "mentions": 1
+                }
+            ],
+            "companies": [],
+            "sentiment": {
+                "positive": 0.29294056,
+                "negative": 0.120266594,
+                "neutral": 0.5867929
+            },
+            "summary": "",
+            "translation": "",
+            "translatedTitle": "",
+            "translatedDescription": "",
+            "translatedSummary": "",
+            "locations": [],
+            "reprint": true,
+            "reprintGroupId": "e5636f7036ac42ed8ef37c9790542e45",
+            "places": [],
+            "people": []
+        },
+        {
+            "url": "https://www.yahoo.com/tech/spacex-launches-23-starlink-satellites-012234437.html",
+            "authorsByline": "Mark Moran",
+            "articleId": "58c0308a6c3d45b8a0a373f058730027",
+            "clusterId": "6c5be20c81534063ba104552ed52c562",
+            "source": {
+                "domain": "yahoo.com",
+                "paywall": false,
+                "location": null
+            },
+            "imageUrl": "https://media.zenfs.com/en/united_press_international_articles_356/6bd83aa5c3ec01bb660e10c02ad1c79e",
+            "country": "us",
+            "language": "en",
+            "pubDate": "2024-05-13T01:22:34+00:00",
+            "addDate": "2024-05-13T02:11:53.249400+00:00",
+            "refreshDate": "2024-05-13T02:11:53.249401+00:00",
+            "score": 51.005814,
+            "title": "SpaceX launches 23 Starlink satellites from Florida",
+            "description": "SpaceX launched 23 Starlink satellites into low-Earth orbit from the Cape Canaveral Space Force Station on Sunday night, bringing the total number of Starlink satellites in orbit to just over 6,000.",
+            "content": "May 12 (UPI) -- SpaceX launched 23 Starlink satellites into low-Earth orbit from the Cape Canaveral Space Force Station on Sunday night, bringing the total number of Starlink satellites in orbit to ju... [1504 symbols]",
+            "medium": "Article",
+            "links": [
+                "https://www.spacex.com/launches/mission/?missionId=sl-6-58",
+                "https://www.foxbusiness.com/category/elon-musk",
+                "https://twitter.com/SpaceX"
+            ],
+            "labels": [],
+            "matchedAuthors": [
+                {
+                    "id": "052b3216ed2e4039a1e498ca06874300",
+                    "name": "Mark Moran"
+                }
+            ],
+            "claim": "",
+            "verdict": "",
+            "keywords": [
+                {
+                    "name": "Starlink missions",
+                    "weight": 0.10358633
+                },
+                {
+                    "name": "Starlink satellites",
+                    "weight": 0.10250406
+                },
+                {
+                    "name": "Atmospheric Administration",
+                    "weight": 0.08787872
+                },
+                {
+                    "name": "service disruptions",
+                    "weight": 0.08008649
+                },
+                {
+                    "name": "orbit",
+                    "weight": 0.079948254
+                },
+                {
+                    "name": "SpaceX CEO Elon Musk",
+                    "weight": 0.079458855
+                },
+                {
+                    "name": "Saturday morning",
+                    "weight": 0.07611207
+                },
+                {
+                    "name": "Starlink",
+                    "weight": 0.07540066
+                },
+                {
+                    "name": "Sunday night",
+                    "weight": 0.07120101
+                },
+                {
+                    "name": "Major geomagnetic solar storm",
+                    "weight": 0.06880458
+                }
+            ],
+            "topics": [
+                {
+                    "name": "Space"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Tech"
+                }
+            ],
+            "entities": [
+                {
+                    "data": "SpaceX",
+                    "type": "ORG",
+                    "mentions": 4
+                },
+                {
+                    "data": "Starlink",
+                    "type": "ORG",
+                    "mentions": 7
+                },
+                {
+                    "data": "Twitter",
+                    "type": "ORG",
+                    "mentions": 1
+                },
+                {
+                    "data": "the National Oceanic and Atmospheric Administration",
+                    "type": "ORG",
+                    "mentions": 1
+                },
+                {
+                    "data": "Florida",
+                    "type": "GPE",
+                    "mentions": 1
+                },
+                {
+                    "data": "the Cape Canaveral Space Force Station",
+                    "type": "FAC",
+                    "mentions": 1
+                },
+                {
+                    "data": "night",
+                    "type": "TIME",
+                    "mentions": 1
+                },
+                {
+                    "data": "morning",
+                    "type": "TIME",
+                    "mentions": 1
+                },
+                {
+                    "data": "A Shortfall of Gravitas",
+                    "type": "PRODUCT",
+                    "mentions": 1
+                },
+                {
+                    "data": "the Atlantic Ocean",
+                    "type": "LOC",
+                    "mentions": 1
+                },
+                {
+                    "data": "Earth",
+                    "type": "LOC",
+                    "mentions": 2
+                },
+                {
+                    "data": "Elon Musk",
+                    "type": "PERSON",
+                    "mentions": 2
+                }
+            ],
+            "companies": [],
+            "sentiment": {
+                "positive": 0.14525348,
+                "negative": 0.30118608,
+                "neutral": 0.55356044
+            },
+            "summary": "SpaceX has launched 23 Starlink satellites into low-Earth orbit from the Cape Canaveral Space Force Station in Florida, bringing the total number of Starlink satellite satellites in orbit to over 6,000. This was the 15th mission for SpaceX's reusable booster rocket, which launches the spacecraft into orbit under the power of a million pounds of rocket-grade kerosene. The launch was launched amid an intense geomagnetic storm affecting Earth's atmosphere, causing service disruptions. The booster returned to the drone ship A Shortfall of Gravitas, where it will be reconditioned for a future mission. SpaceX CEO Elon Musk has stated that the geomagnication is causing disruption to the satellites. The company has been authorized to deploy 12,000 StarLink satellites and has applied for approval for an additional 30,000 more.",
+            "translation": "",
+            "translatedTitle": "",
+            "translatedDescription": "",
+            "translatedSummary": "",
+            "locations": [],
+            "reprint": true,
+            "reprintGroupId": "2ca1565759c9455daf119e9ec6f4ae10",
+            "places": [],
+            "people": [
+                {
+                    "wikidataId": "Q317521",
+                    "name": "Elon Musk"
+                }
+            ]
+        },
+        {
+            "url": "https://www.yahoo.com/tech/spacex-reaches-milestone-starlink-internet-032052994.html",
+            "authorsByline": "Trevor Mogg",
+            "articleId": "f8aa97923d0044d481351e754ce1ca97",
+            "clusterId": "8d9fd3054c2f4ee08a0dd2be9c9a5bb2",
+            "source": {
+                "domain": "yahoo.com",
+                "paywall": false,
+                "location": null
+            },
+            "imageUrl": "https://media.zenfs.com/en/digital_trends_973/6d636616b1a4225306bf5d65b1c9b620",
+            "country": "us",
+            "language": "en",
+            "pubDate": "2024-05-22T03:20:52+00:00",
+            "addDate": "2024-05-22T04:15:20.514535+00:00",
+            "refreshDate": "2024-05-22T04:15:20.514536+00:00",
+            "score": 51.005814,
+            "title": "SpaceX reaches milestone with Starlink internet service",
+            "description": "Since launching a beta internet-from-space service in 2020, SpaceX's Starlink system has grown rapidly and now has more than 3 million customers globally.",
+            "content": "SpaceX\u2019s Starlink service now has more than 3 million customers globally, the company announced this week.\n\n\u201cStarlink is connecting more than 3M people with high-speed internet across nearly 100 count... [2373 symbols]",
+            "medium": "Article",
+            "links": [
+                "https://t.co/yo6f2gtJCJ",
+                "https://spacenews.com/nsf-and-spacex-reach-agreement-to-reduce-starlink-effects-on-astronomy/",
+                "https://www.bbc.com/news/world-us-canada-68495708",
+                "https://twitter.com/Starlink/status/1792678386353213567?ref_src=twsrc%5Etfw",
+                "https://twitter.com/elonmusk/status/1792690117947314323?ref_src=twsrc%5Etfw",
+                "https://t.co/D6L8BSisQq",
+                "https://www.digitaltrends.com/computing/elon-musk-starlink-helping-restore-tongas-internet/",
+                "https://twitter.com/Starlink?ref_src=twsrc%5Etfw",
+                "https://www.digitaltrends.com/cool-tech/spacex-launches-its-first-batch-of-starlink-internet-satellites/",
+                "https://twitter.com/SpaceX?ref_src=twsrc%5Etfw"
+            ],
+            "labels": [],
+            "matchedAuthors": [
+                {
+                    "id": "04a7339fdf9047828b4998ab9423256b",
+                    "name": "Trevor Mogg"
+                }
+            ],
+            "claim": "",
+            "verdict": "",
+            "keywords": [
+                {
+                    "name": "Starlink internet service",
+                    "weight": 0.13590664
+                },
+                {
+                    "name": "Starlink satellites",
+                    "weight": 0.12911563
+                },
+                {
+                    "name": "Starlink satellite dishes",
+                    "weight": 0.12663656
+                },
+                {
+                    "name": "residential Starlink customers",
+                    "weight": 0.1201495
+                },
+                {
+                    "name": "regular internet services",
+                    "weight": 0.10808269
+                },
+                {
+                    "name": "Starlink technology",
+                    "weight": 0.10615216
+                },
+                {
+                    "name": "Starlink",
+                    "weight": 0.10262487
+                },
+                {
+                    "name": "internet connectivity",
+                    "weight": 0.09116222
+                },
+                {
+                    "name": "customers",
+                    "weight": 0.082064904
+                },
+                {
+                    "name": "SpaceX CEO Elon Musk",
+                    "weight": 0.081308775
+                }
+            ],
+            "topics": [
+                {
+                    "name": "Space"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Tech"
+                }
+            ],
+            "entities": [
+                {
+                    "data": "SpaceX",
+                    "type": "ORG",
+                    "mentions": 7
+                },
+                {
+                    "data": "Starlink",
+                    "type": "ORG",
+                    "mentions": 12
+                },
+                {
+                    "data": "Elon Musk",
+                    "type": "PERSON",
+                    "mentions": 2
+                },
+                {
+                    "data": "Russian",
+                    "type": "NORP",
+                    "mentions": 1
+                },
+                {
+                    "data": "Ukraine",
+                    "type": "GPE",
+                    "mentions": 1
+                },
+                {
+                    "data": "Russia",
+                    "type": "GPE",
+                    "mentions": 1
+                },
+                {
+                    "data": "U.S.",
+                    "type": "GPE",
+                    "mentions": 1
+                }
+            ],
+            "companies": [],
+            "sentiment": {
+                "positive": 0.09445988,
+                "negative": 0.5393489,
+                "neutral": 0.3661912
+            },
+            "summary": "SpaceX's Starlink internet service now has over 3 million customers globally, reaching 99 countries. The company announced this milestone in a social media post, thanking customers and team members. The primary goal of Starlink is to provide internet connectivity to unserved or underserved locations around the world, but customers can now sign up. The service is being used by residential and business customers, including airlines and cruise ships, to provide in-flight internet and to aid disaster-hit areas. However, there have been concerns about the satellites' ability to explore deep space due to their reflection off the orbiting machinery. There have also been reports of Russian use of StarLink technology in Ukraine, but SpaceX has denied these allegations.",
+            "translation": "",
+            "translatedTitle": "",
+            "translatedDescription": "",
+            "translatedSummary": "",
+            "locations": [],
+            "reprint": true,
+            "reprintGroupId": "ca44b162fbff45098cffcc49856a4aaf",
+            "places": [],
+            "people": [
+                {
+                    "wikidataId": "Q317521",
+                    "name": "Elon Musk"
+                }
+            ]
+        },
+        {
+            "url": "https://finance.yahoo.com/m/e64e430d-206a-3603-b691-7891f273598d/spacex-is-soaring-while.html?.tsrc=rss",
+            "authorsByline": "Al Root",
+            "articleId": "438eca2c2d284ac8a91f16a533e3ef5c",
+            "clusterId": "4d36731cb90e4fdd91a04a0ac5c0b3ec",
+            "source": {
+                "domain": "finance.yahoo.com",
+                "location": null
+            },
+            "imageUrl": "https://s.yimg.com/ny/api/res/1.2/qLIb9xfJ4AxPJbEETLpiCg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/Barrons.com/911081fea3b91e59e1323ffde3633f2f",
+            "country": "us",
+            "language": "en",
+            "pubDate": "2024-05-24T20:13:00+00:00",
+            "addDate": "2024-05-24T21:24:06.810540+00:00",
+            "refreshDate": "2024-05-24T21:24:06.810541+00:00",
+            "score": 51.005814,
+            "title": "SpaceX Is Soaring While Boeing\u2019s Starliner Struggles",
+            "description": "Boeing, NASA, and others held a news conference on Friday to discuss what\u2019s going on with the delayed Starliner launch.",
+            "content": "Boeing, NASA, and others held a news conference on Friday to discuss what\u2019s going on with the delayed Starliner launch.",
+            "medium": "Article",
+            "links": [
+                "https://www.barrons.com/articles/spacex-boeing-starliner-nasa-19f3b2c8?siteid=yhoof2"
+            ],
+            "labels": [
+                {
+                    "name": "Low Content"
+                }
+            ],
+            "matchedAuthors": [
+                {
+                    "id": null,
+                    "name": "Al Root"
+                }
+            ],
+            "claim": "",
+            "verdict": "",
+            "keywords": [
+                {
+                    "name": "Starliner",
+                    "weight": 0.1593839
+                },
+                {
+                    "name": "Boeing",
+                    "weight": 0.15002199
+                },
+                {
+                    "name": "Friday",
+                    "weight": 0.13523303
+                },
+                {
+                    "name": "others",
+                    "weight": 0.12585792
+                },
+                {
+                    "name": "the delayed Starliner launch",
+                    "weight": 0.11656329
+                },
+                {
+                    "name": "NASA",
+                    "weight": 0.11468077
+                },
+                {
+                    "name": "Boeing\u2019s Starliner",
+                    "weight": 0.10944156
+                },
+                {
+                    "name": "SpaceX",
+                    "weight": 0.10456823
+                },
+                {
+                    "name": "a news conference",
+                    "weight": 0.09571497
+                }
+            ],
+            "topics": [
+                {
+                    "name": "Space"
+                },
+                {
+                    "name": "Airlines"
+                },
+                {
+                    "name": "Aviation"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Travel"
+                }
+            ],
+            "entities": [
+                {
+                    "data": "SpaceX",
+                    "type": "ORG",
+                    "mentions": 1
+                },
+                {
+                    "data": "Boeing",
+                    "type": "ORG",
+                    "mentions": 2
+                },
+                {
+                    "data": "NASA",
+                    "type": "ORG",
+                    "mentions": 1
+                },
+                {
+                    "data": "Starliner",
+                    "type": "PRODUCT",
+                    "mentions": 2
+                }
+            ],
+            "companies": [],
+            "sentiment": {
+                "positive": 0.09691267,
+                "negative": 0.48904896,
+                "neutral": 0.41403842
+            },
+            "summary": "",
+            "translation": "",
+            "translatedTitle": "",
+            "translatedDescription": "",
+            "translatedSummary": "",
+            "locations": [],
+            "reprint": true,
+            "reprintGroupId": "ff11ee272fe24ae19c5fee94b888cad0",
+            "places": [],
+            "people": []
+        },
+        {
+            "url": "https://www.nbcnews.com/now/video/boeing-spacex-set-dates-for-critical-missions-211624517955",
+            "authorsByline": "NBCNews.com",
+            "articleId": "4db7ce66b51f4fd6a9edd43ce676c0ba",
+            "clusterId": "c5bb62fd0efb45f897cc1588f64f57cb",
+            "source": {
+                "domain": "nbcnews.com",
+                "paywall": false,
+                "location": null
+            },
+            "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2024_05/1716601697742_now_staytuned_space_dates_240524_1920x1080-1b67rd.jpg",
+            "country": "us",
+            "language": "en",
+            "pubDate": "2024-05-25T01:48:36+00:00",
+            "addDate": "2024-05-25T02:14:24.381888+00:00",
+            "refreshDate": "2024-05-25T02:14:24.381890+00:00",
+            "score": 51.005814,
+            "title": "Boeing, SpaceX set dates for critical missions",
+            "description": "Boeing has proposed June 1 as the next possible launch date for its Starliner flight, which was delayed due to a helium leak, while SpaceX eyes June 5 for its next Starship launch. Former astronaut Dr. Leroy Chiao looks at the upcoming missions and how the companies are preparing.",
+            "content": "'A Different World' cast reflects on the show's legacy decades later",
+            "medium": "Video",
+            "links": [],
+            "labels": [],
+            "matchedAuthors": [],
+            "claim": "",
+            "verdict": "",
+            "keywords": [
+                {
+                    "name": "critical missions",
+                    "weight": 0.16793413
+                },
+                {
+                    "name": "dates",
+                    "weight": 0.14779824
+                },
+                {
+                    "name": "SpaceX",
+                    "weight": 0.13353631
+                },
+                {
+                    "name": "Boeing",
+                    "weight": 0.11787774
+                },
+                {
+                    "name": "A Different World cast",
+                    "weight": 0.10308122
+                },
+                {
+                    "name": "A Different World",
+                    "weight": 0.08313785
+                },
+                {
+                    "name": "the shows legacy",
+                    "weight": 0.06855363
+                },
+                {
+                    "name": "decades later",
+                    "weight": 0.052042495
+                }
+            ],
+            "topics": [
+                {
+                    "name": "Aviation"
+                },
+                {
+                    "name": "Space"
+                },
+                {
+                    "name": "Airlines"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Travel"
+                }
+            ],
+            "entities": [
+                {
+                    "data": "Boeing",
+                    "type": "ORG",
+                    "mentions": 1
+                },
+                {
+                    "data": "SpaceX",
+                    "type": "ORG",
+                    "mentions": 1
+                },
+                {
+                    "data": "'A Different World'",
+                    "type": "WORK_OF_ART",
+                    "mentions": 1
+                }
+            ],
+            "companies": [],
+            "sentiment": {
+                "positive": 0.43211108,
+                "negative": 0.100208886,
+                "neutral": 0.46768
+            },
+            "summary": "",
+            "translation": "",
+            "translatedTitle": "",
+            "translatedDescription": "",
+            "translatedSummary": "",
+            "locations": [],
+            "reprint": false,
+            "reprintGroupId": "63adeba98dac41c1bf6eed2772b145d6",
+            "places": [],
+            "people": []
+        },
+        {
+            "url": "https://www.yahoo.com/tech/spacex-launches-23-starlink-satellites-182817692.html",
+            "authorsByline": "Mike Wall",
+            "articleId": "669e6796fbb340e8bbab4260c18e2f35",
+            "clusterId": "0e39e53fe8cb40c2bdb8c9961382ba5b",
+            "source": {
+                "domain": "yahoo.com",
+                "paywall": false,
+                "location": null
+            },
+            "imageUrl": "https://media.zenfs.com/en/space_311/04d09c7bcf9a1e3756d44f9ee1f18725",
+            "country": "us",
+            "language": "en",
+            "pubDate": "2024-05-06T18:28:17+00:00",
+            "addDate": "2024-05-07T02:08:57.750407+00:00",
+            "refreshDate": "2024-05-07T02:08:57.750408+00:00",
+            "score": 49.043087,
+            "title": "SpaceX launches 23 Starlink satellites from Florida (video)",
+            "description": "SpaceX launched another batch of its Starlink internet satellites today (May 6), the company's 46th orbital mission of the year already.",
+            "content": "SpaceX launched another batch of its Starlink internet satellites today (May 6), the company's 46th orbital mission of the year already.\n\nA Falcon 9 rocket lifted off from Florida's Cape Canaveral Spa... [1638 symbols]",
+            "medium": "Video",
+            "links": [
+                "https://www.yahoo.com/news/spacex-launches-crew-8-astronaut-042438472.html",
+                "https://www.space.com/16748-international-space-station.html",
+                "https://www.space.com/18962-spacex-falcon-9.html",
+                "https://www.space.com/spacex-starlink-satellites.html",
+                "https://planet4589.org/space/con/star/stats.html",
+                "https://www.space.com/starlink-satellite-train-how-to-see-and-track-it",
+                "https://www.space.com/33926-cape-canaveral.html",
+                "https://www.space.com/19367-boeing-cst-100.html",
+                "https://www.space.com/low-earth-orbit",
+                "https://www.spacex.com/launches/mission/?missionId=sl-6-54",
+                "https://www.yahoo.com/tech/spacex-launch-falcon-9-rocket-150651847.html",
+                "https://www.space.com/54-earth-history-composition-and-atmosphere.html",
+                "https://www.yahoo.com/tech/boeing-starliner-1st-astronaut-flight-190708807.html",
+                "https://www.space.com/ways-spacex-transformed-spaceflight"
+            ],
+            "labels": [],
+            "matchedAuthors": [
+                {
+                    "id": "d9fd6e52af5e4b04873e475cd81e8c0b",
+                    "name": "Mike Wall"
+                }
+            ],
+            "claim": "",
+            "verdict": "",
+            "keywords": [
+                {
+                    "name": "Starlink satellites",
+                    "weight": 0.12048181
+                },
+                {
+                    "name": "Starlink",
+                    "weight": 0.094103955
+                },
+                {
+                    "name": "Cape Canaveral Space Force Station",
+                    "weight": 0.08959003
+                },
+                {
+                    "name": "NASA",
+                    "weight": 0.08132024
+                },
+                {
+                    "name": "low Earth orbit",
+                    "weight": 0.0766358
+                },
+                {
+                    "name": "LEO",
+                    "weight": 0.07198292
+                },
+                {
+                    "name": "Just Read",
+                    "weight": 0.07138108
+                },
+                {
+                    "name": "its Starlink internet satellites",
+                    "weight": 0.068245664
+                },
+                {
+                    "name": "Floridas Cape Canaveral Space Force Station",
+                    "weight": 0.06427775
+                },
+                {
+                    "name": "Today",
+                    "weight": 0.06397712
+                }
+            ],
+            "topics": [
+                {
+                    "name": "Space"
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Tech"
+                }
+            ],
+            "entities": [
+                {
+                    "data": "SpaceX",
+                    "type": "ORG",
+                    "mentions": 5
+                },
+                {
+                    "data": "Starlink",
+                    "type": "ORG",
+                    "mentions": 7
+                },
+                {
+                    "data": "Boeing",
+                    "type": "ORG",
+                    "mentions": 1
+                },
+                {
+                    "data": "NASA",
+                    "type": "ORG",
+                    "mentions": 2
+                },
+                {
+                    "data": "Florida",
+                    "type": "GPE",
+                    "mentions": 2
+                },
+                {
+                    "data": "Falcon 9",
+                    "type": "PRODUCT",
+                    "mentions": 4
+                },
+                {
+                    "data": "Starliner",
+                    "type": "PRODUCT",
+                    "mentions": 1
+                },
+                {
+                    "data": "Cape Canaveral Space Force Station",
+                    "type": "FAC",
+                    "mentions": 1
+                },
+                {
+                    "data": "the International Space Station",
+                    "type": "FAC",
+                    "mentions": 1
+                },
+                {
+                    "data": "2:14 p.m. EDT",
+                    "type": "TIME",
+                    "mentions": 2
+                },
+                {
+                    "data": "1814 GMT",
+                    "type": "TIME",
+                    "mentions": 1
+                },
+                {
+                    "data": "about eight minutes later",
+                    "type": "TIME",
+                    "mentions": 2
+                },
+                {
+                    "data": "tonight",
+                    "type": "TIME",
+                    "mentions": 1
+                },
+                {
+                    "data": "0234 GMT",
+                    "type": "TIME",
+                    "mentions": 1
+                },
+                {
+                    "data": "Earth",
+                    "type": "LOC",
+                    "mentions": 1
+                },
+                {
+                    "data": "the Atlantic Ocean",
+                    "type": "LOC",
+                    "mentions": 1
+                },
+                {
+                    "data": "LEO",
+                    "type": "LOC",
+                    "mentions": 1
+                }
+            ],
+            "companies": [],
+            "sentiment": {
+                "positive": 0.3399849,
+                "negative": 0.069410205,
+                "neutral": 0.5906049
+            },
+            "summary": "SpaceX has successfully launched 23 Starlink internet satellites from Florida's Cape Canaveral Space Force Station on May 6, marking the company's 46th orbital mission of the year. The Falcon 9 rocket lifted off at 2:14 p.m. EDT (1814 GMT), carrying 23 craft towards low Earth orbit (LEO). The first stage returned to Earth eight minutes later, landing on the droneship Just Read the Instructions. This was the 15th launch and landing for this first stage, falling short of SpaceX's reuse record. The launch was part of SpaceX\u2019s plan to build out the Starlink broadband megaconstellation, which already consists of over 5,800 functional satellites.",
+            "translation": "",
+            "translatedTitle": "",
+            "translatedDescription": "",
+            "translatedSummary": "",
+            "locations": [],
+            "reprint": true,
+            "reprintGroupId": "c688de8963d1464d842c1e0c4ccd2c25",
+            "places": [
+                {
+                    "osmId": "7384620",
+                    "county": "Brevard County",
+                    "state": "Florida",
+                    "country": "United States",
+                    "countryCode": "us",
+                    "coordinates": {
+                        "lat": 28.4896595,
+                        "lon": -80.56483684876875
+                    }
+                }
+            ],
+            "people": []
+        }
+    ]
+}

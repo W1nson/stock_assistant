@@ -1,4 +1,4 @@
-from api_test import News
+from api_test import News, Perigon
 from APItoVDB import APItoVDB
 import os 
 
@@ -10,14 +10,13 @@ load_dotenv()
 
 def main(): 
 	# News data
-	api = News(os.getenv('NEWS_API_KEY'), 'https://newsapi.org/v2/')
-
+	api = Perigon(os.getenv('PERIGON_API_KEY'), 'https://api.goperigon.com/v1/')
 	params = { 
-		"from": "2024-04-28",
-		"sortBy": "popularity",
-
+		"category": "Business",
+		"sourceGroup": "top100",
+		"showReprints": "false"
 	}
-	res = api.get_everything('TSLA', **params)
+	res = api.all('TSLA', **params)
 
 	# vector DB 
 	db = APItoVDB()

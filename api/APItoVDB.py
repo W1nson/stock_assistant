@@ -47,14 +47,16 @@ class APItoVDB:
 			print(f"{self.name} failed to delete")
 		return 
 
-	def load(self, data): 
+	def load(self, content, metadata): 
 		# embedding_functions
-		self.db = Chroma.from_documents(self.preprocess(data), self.emb_fn, client=self.client, collection_name=self.name)
+		docs = self.preprocess(content, metadata)
+		self.db = Chroma.from_documents(docs, self.emb_fn, client=self.client, collection_name=self.name)
 		return self.db 
 
-	def preprocess(self, documents): 
+	def preprocess(self, content, metadata): 
 		text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=20)
-		documents = text_splitter.create_documents(documents)
+		documents = text_splitter.create_documents([content], metadatas=[metadata])
+		# print(documents)
 		docs = text_splitter.split_documents(documents)
 		return docs 
 	
