@@ -3,7 +3,7 @@ from typing import Optional
 from langchain_community.vectorstores import Chroma
 import chromadb.utils.embedding_functions as embedding_functions
 from langchain_community.embeddings import OllamaEmbeddings
-from langchain.text_splitter import CharacterTextSplitter
+from langchain_text_splitters import CharacterTextSplitter
 
 
 from api_test import News
@@ -59,9 +59,9 @@ class APItoVDB:
 		# print(documents)
 		docs = text_splitter.split_documents(documents)
 		return docs 
-	
+
 	def query(self, q): 
 		return self.db.similarity_search(q) 
-	
+
 
 
